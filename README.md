@@ -17,13 +17,14 @@ The script works by base64 encoding the files contents, copying them to the clip
 
  - xclip
  - dmenu
+ - xdotool
 
 ### Arch-based distributions
 ```bash
-sudo pacman -S dmenu xclip
+sudo pacman -S dmenu xclip xdotool
 ```
 ### Debian-based distributions
 ```bash
-sudo apt install dmenu xclip
+sudo apt install dmenu xclip xdotool
 ```
 

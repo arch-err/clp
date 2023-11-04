@@ -5,6 +5,11 @@
 # Made by arch-err
 # https://github.com/arch-err/clp
 #
+# Dependencies:
+#  - xclip
+#  - dmenu
+#  - xdotool
+#
 #===========>>
 
 printf "\e[1;91mWarning: If you can read this message you're using this script in a wrong way. You are supposed to launch this through a launcher (like dmenu, rofi, krunner, etc.). \e[1;97m\n"
