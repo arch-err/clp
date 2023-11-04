@@ -1,5 +1,4 @@
 # ClP
----
 
 ## Description
 
@@ -12,9 +11,6 @@ This will open a dmenu window (You could mod the script to use your favourite la
 
 ### How does it work?
 The script works by base64 encoding the files contents, copying them to the clipboard, and then pasting it in your current active window (along with a command that writes it to a file on the remote host).
-
-
----
 
 
 ## Installation (Dependencies)
